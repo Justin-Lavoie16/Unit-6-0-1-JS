@@ -4,8 +4,7 @@ if (navigator.serviceWorker) {
   })
 }
 
-
-"use strict"
+;("use strict")
 
 function calculate() {
   const length = parseInt(document.getElementById("pay").value)
