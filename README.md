@@ -1,6 +1,4 @@
-# ICS2O-PWA-Template-HTML
-
-Template to make an MDL, PWA website, on GitHub pages.
+# ICS2O-Unit-6-0-1
 
 [![Mr Coxall's Super Linter](https://github.com/mr-coxall/github-page-pwa/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/mr-coxall/github-page-pwa/actions)
 
