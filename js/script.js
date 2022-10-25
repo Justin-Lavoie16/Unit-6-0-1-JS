@@ -1,10 +1,12 @@
-if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-PWA-Test/sw.js", {
-    scope: "/ICS2O-PWA-Test/",
-  })
-}
+
 
 ;("use strict")
+
+if (navigator.serviceWorker) {
+  navigator.serviceWorker.register("/Justin-Lavoie16/Unit-6-0-1-JS", {
+    scope: "/Justin-Lavoie16/",
+  })
+}
 
 function calculate() {
   const length = parseInt(document.getElementById("pay").value)
